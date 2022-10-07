@@ -3,7 +3,8 @@
 ## REQUIREMENTS
 * Java 8
 * SpringBoot
-* Maven and Git
+* Maven and Lombok
+* Mockito for Tests
 
 ## Installation
 
